@@ -1,0 +1,147 @@
+@import url("https://fonts.googleapis.com/css?family=Poiret+One");
+body {
+  background-color: #200D31; }
+
+.intro {
+  height: 525px;
+  padding-top: 70px;
+  text-align: center;
+  font-family: 'Poiret One', cursive;
+  color: #FEFEFE; }
+
+.intro h1 {
+  font-size: 40px; }
+  .intro h1:hover {
+    color: #D6D2D9; }
+
+.images {
+  padding-top: 75px; }
+
+.intro h2 {
+  font-size: 20px; }
+
+.navbar-nav {
+  display: inline-block;
+  float: none; }
+
+.navbar-center {
+  text-align: center; }
+
+.navbar {
+  background: transparent;
+  border-color: transparent; }
+
+.grav-button {
+  background-color: transparent;
+  background: transparent;
+  border-radius: 20px;
+  border: 1px solid white;
+  color: #FEFEFE;
+  font-size: 10px;
+  padding: 10px 20px; }
+
+.blueplanet {
+  margin-top: -320px; }
+
+.featurette-divider {
+  margin: 66px 0;
+  border-top: 3px solid #1abadb; }
+
+.section-two h1 {
+  font-family: 'Poiret One', cursive;
+  font-size: 40px;
+  text-align: center;
+  color: #D6D2D9;
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 10px; }
+
+.section-two h2 {
+  font-family: 'Poiret One', cursive;
+  font-size: 20px;
+  text-align: center;
+  color: #6479A5;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 30px; }
+
+.table-two {
+  text-align: center;
+  font-family: 'Poiret One', cursive;
+  color: #D6D2D9;
+  font-size: 15px;
+  padding: 50px; }
+
+.block {
+  width: 280px;
+  height: 200px;
+  margin: 0 auto;
+  display: inline-block;
+  text-align: center;
+  font-size: 40px;
+  padding-top: 100px;
+  font-family: 'Poiret One', cursive;
+  color: #FEFEFE; }
+
+.color-boxes {
+  width: 870px;
+  margin: 0 auto; }
+
+.blue {
+  background: linear-gradient(45deg, #0081b3 1%, #1bbcbd 100%, #0081b3 100%, #207cca 100%); }
+
+.pink {
+  background: linear-gradient(45deg, #b21283 0%, #fb036a 100%); }
+
+.purple {
+  background: linear-gradient(45deg, #67009c 0%, #8f049d 100%); }
+
+.under-color-boxes {
+  width: 870px;
+  margin: 0 auto; }
+
+.color-lines {
+  width: 870px;
+  margin: 0 auto; }
+
+.line-pink {
+  border-top: 3px solid #b21283; }
+
+.line-blue {
+  border-top: 3px solid #0081b3; }
+
+.line-purple {
+  border-top: 3px solid #67009c; }
+
+.section-three h1 {
+  font-family: 'Poiret One', cursive;
+  font-size: 40px;
+  text-align: center;
+  color: #D6D2D9;
+  padding-left: 90px;
+  padding-right: 90px;
+  padding-top: 10px; }
+
+.section-three h2 {
+  font-family: 'Poiret One', cursive;
+  font-size: 20px;
+  text-align: center;
+  color: #6479A5;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 30px; }
+
+.jumbotron h1 {
+  text-align: center;
+  font-family: 'Poiret One', cursive;
+  color: #b21283; }
+
+.jumbotron p {
+  text-align: center;
+  font-family: 'Poiret One', cursive;
+  color: #6479A5; }
+
+.jumbotron {
+  margin-top: 60px; }
+
+/*# sourceMappingURL=classchallenge.css.map */
